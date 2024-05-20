@@ -1,5 +1,5 @@
 package leetcode;
-
+//Beats 99% of users with Java
 public class RemoveElement {
 	
 	
